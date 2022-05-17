@@ -1,11 +1,36 @@
+
+body{
+    font: 20px Arial, sans-serif;
+    color:rgb(0, 0, 0);
+}
+
 .navbar{
-    background-color: #2e6e10;
+    background-color: #848884;
 }
 
 .whowe-are{
-    background-color: rgb(150, 90, 207);
+    background-color: #A9A9A9;
 }
 
 .margin{
-    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.partines{
+    background-color:#808080;
+}
+
+.col-md-4{
+    padding-top:10px;
+}
+
+.bg-footer{
+    background-color:#71797E;
+    color: #fff;
+    
+}
+
+.services{
+    background-color:#A9A9A9;
 }
